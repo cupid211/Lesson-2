@@ -1,0 +1,16 @@
+:root{
+    --yellow:#efae1c;
+    --section-padding: 0 3px;
+    --section-width:calc(100% - 6px);
+    --number-size:40px;
+    --gap-in-section:5px;
+
+    --div-padding:5px;
+
+    --dot-size:;
+    --star-size:;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
